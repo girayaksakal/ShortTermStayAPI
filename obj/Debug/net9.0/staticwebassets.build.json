@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oEKgPZ8aLQ25tyWNSmgmX5K85ukZgLlj1AHWKrLjohg=",
+  "Source": "ShortTermStayAPI",
+  "BasePath": "_content/ShortTermStayAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
