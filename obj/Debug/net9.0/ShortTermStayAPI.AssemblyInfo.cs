@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShortTermStayAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1ba7e13f9c1627437910584a44c2b1d76c9b12f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1101d1389072ae4348e10571491a7d322d94031a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShortTermStayAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShortTermStayAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
